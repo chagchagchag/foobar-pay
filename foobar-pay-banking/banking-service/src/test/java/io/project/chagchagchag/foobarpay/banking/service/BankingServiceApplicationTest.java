@@ -7,7 +7,7 @@ import org.springframework.test.context.ActiveProfiles;
 
 @ActiveProfiles("test")
 @SpringBootTest
-public class FoobarPayBankingServiceApplicationTest {
+public class BankingServiceApplicationTest {
   @DisplayName("contextLoads")
   @Test
   public void TEST_contextLoads(){
